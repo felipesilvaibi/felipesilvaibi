@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Felipe Felipe</h1>
+<h1 align="center">Olá, me chamo Felipe</h1>
 <h3 align="center">Brasileiro, desenvolvedor de software tradicional e de Machine Learning</h3>
 
 - 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvento e implantando sistemas de Machine Learning**
