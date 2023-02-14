@@ -11,7 +11,7 @@
 
 - 💬 Me pergunte sobre **Python, Data Science, Deploy**
 
-- ⚡ Fatos curiosos **Curto café, código, jogos, GYM e brincar com o meu cachorro (sim, esse da foto mesmo :stuck_out_tongue:)**
+- ⚡ Fatos curiosos **Curto café, código, jogos, GYM e brincar com o meu cachorro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
