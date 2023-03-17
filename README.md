@@ -1,13 +1,13 @@
 <h1 align="center">Olá, me chamo Felipe</h1>
 <h3 align="center">Brasileiro, desenvolvedor de software tradicional e de Machine Learning</h3>
 
-- 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvento e implantando sistemas de Machine Learning**
+- 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvento e implantando serviços web**
 
 - 🌱 Estou estudando **Engenharia de Software e Machine Learning (data science e eng. machine learning)**
 
 - 👯 Procuro colaborar com **Data Science, Machine Learning, Arquitetura de Software para Machine Learning**
 
-- 🤝 Procuro ajuda com **Engenharia de Machine Learning**
+- 🤝 Procuro ajuda com **Engenharia de Software**
 
 - 💬 Me pergunte sobre **Python, Data Science, Deploy**
 
