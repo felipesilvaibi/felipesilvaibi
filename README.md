@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **Engenharia de Software e Machine Learning (data science e eng. machine learning)**
 
-- 👯 Procuro colaborar com **Data Science, Machine Learning, Arquitetura de Software para Machine Learning**
+- 👯 Procuro colaborar com **Arquitetura de Software, Data Science e Machine Learning**
 
 - 🤝 Procuro ajuda com **Engenharia de Software**
 
