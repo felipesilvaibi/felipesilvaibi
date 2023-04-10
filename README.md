@@ -5,11 +5,11 @@
 
 - 🌱 Estou estudando **Engenharia de Software e Machine Learning (data science e eng. machine learning)**
 
-- 👯 Procuro colaborar com **Arquitetura de Software, Data Science e Machine Learning**
+- 👯 Procuro colaborar com **Design e Arquitetura de Software, e Machine Learning**
 
 - 🤝 Procuro ajuda com **Engenharia de Software**
 
-- 💬 Me pergunte sobre **Python, Data Science, Deploy**
+- 💬 Me pergunte sobre **PHP, Python, Typescript, Arquitetura de Software e Deploy**
 
 - ⚡ Fatos curiosos **Curto café, código, jogos, GYM e brincar com o meu cachorro**
 
