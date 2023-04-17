@@ -9,7 +9,7 @@
 
 - 🤝 Procuro ajuda com **Engenharia e Arquitetura de Software**
 
-- 💬 Me pergunte sobre **PHP, Python, Typescript, Arquitetura de Software e Deploy**
+- 💬 Me pergunte sobre **Design de projeto, desenvolvimento PHP/Python/Typescript, Git, CI/CD, Terraform e GCP**
 
 - ⚡ Fatos curiosos **Curto café, código, jogos, GYM e brincar com o meu cachorro**
 
