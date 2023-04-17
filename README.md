@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvento, implantando e monitorando serviços web**
 
-- 🌱 Estou estudando **Engenharia de Software e Machine Learning (data science e eng. machine learning)**
+- 🌱 Estou estudando **Engenharia e Arquitetura de Software**
 
 - 👯 Procuro colaborar com **Design e Arquitetura de Software, e Machine Learning**
 
