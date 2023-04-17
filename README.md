@@ -7,7 +7,7 @@
 
 - 👯 Procuro colaborar com **Design e Arquitetura de Software, e Machine Learning**
 
-- 🤝 Procuro ajuda com **Engenharia de Software**
+- 🤝 Procuro ajuda com **Engenharia e Arquitetura de Software**
 
 - 💬 Me pergunte sobre **PHP, Python, Typescript, Arquitetura de Software e Deploy**
 
