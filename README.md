@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Felipe</h1>
 <h3 align="center">Brasileiro, desenvolvedor de software tradicional e de Machine Learning</h3>
 
-- 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvento, implantando e monitorando serviços web**
+- 🔭 Atualmente trabalho como **Engenheiro de software, projetando, desenvolvendo, implantando e monitorando serviços web**
 
 - 🌱 Estou estudando **Engenharia e Arquitetura de Software**
 
