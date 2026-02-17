@@ -1,81 +1,99 @@
-# Olá, eu sou o Felipe! 👋
-
-**Tech Lead Backend | Distributed Systems | GCP Specialist | AI Engineering**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-developer)
-[![Email](https://img.shields.io/badge/Email-felipe__ibirama@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe_ibirama@hotmail.com)
-
----
-
-### 🚀 Sobre Mim
-
-Sou um **Tech Lead Backend** com forte atuação em **Sistemas Distribuídos**, Arquitetura Orientada a Eventos e **SRE Practices** em ambiente Google Cloud Platform (GCP). Atuo do design ao deploy (End-to-End Ownership), focando em **High Availability**, escalabilidade e redução de custos operacionais.
-
-Atualmente, estou expandindo minha expertise para **Engenharia de IA**, integrando LLMs, RAG e Agentes Autônomos em fluxos de produção reais, utilizando ferramentas modernas de desenvolvimento assistido por IA.
-
----
-
-### ⚡ Impacto & Resultados (Highlights)
-
-Alguns marcos da minha trajetória profissional recente:
-
-* 💰 **>90% de redução de custos operacionais** em integrações com parceiros através de reengenharia de software.
-* 🐛 **>97% de redução de bugs** em fluxos críticos de pagamento e conciliação.
-* 📈 **99.99%+ de confiabilidade** em processos assíncronos de alto volume.
-* ⏱️ **Otimização de Performance:** Redução de tempo de execução de processos críticos de horas para minutos.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-#### 🏗️ Arquitetura & Backend
-* **Arquitetura:** Microservices, Event-Driven Architecture (EDA), DDD, Clean Arch.
-* **Linguagens:** Python (Expert), TypeScript/Node.js.
-* **Banco de Dados:** MongoDB, PostgreSQL, Redis.
-* **Storage:** Google Cloud Storage.
-
-#### ☁️ Cloud & Platform (GCP)
-* **Compute:** Cloud Run, Cloud Functions.
-* **Messaging & Async:** Pub/Sub, Cloud Tasks.
-* **Security:** IAM.
-
-#### 🤖 Engenharia de IA (AI Engineering)
-* **Core:** Agents, LLMs (OpenAI/Anthropic APIs), RAG (Retrieval-Augmented Generation).
-* **Vector DB & Search:** Qdrant, Embeddings.
-* **Safety & Quality:** Evals, Guardrails.
-
-#### 🔭 Observabilidade & SRE
-* **Ferramentas:** Datadog, Sentry, Google Cloud Monitoring.
-* **Práticas:** Distributed Tracing, Alerting, SLOs/SLIs.
-
-#### ⚙️ DevOps & Infra
-* **IaC & CI/CD:** Terraform, GitHub Actions.
-* **Containers & Orchestration:** Docker, Kubernetes, ArgoCD.
-* **Serverless:** Foco em arquiteturas serverless escaláveis.
-
-#### 🚀 AI-Assisted Development Flow
-* **Ferramentas:** Cursor, Rules, MCP (Model Context Protocol).
-* **Workflow:** Skills customizadas, Bugbot.
-
----
-
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Lead+Backend;Distributed+Systems+Architect;AI+Engineering+%26+GCP+Expert" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=felipesilvaibi&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <h3>Construindo sistemas resilientes, escaláveis e inteligentes.</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-silva-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:felipe_ibirama@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/felipesilvaibi">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
+<br />
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Sou **Tech Lead Backend** especialista em **Google Cloud Platform (GCP)** e Arquitetura de Microsserviços. Minha paixão é desenhar sistemas que suportam alta carga, focando em **Event-Driven Architecture** e **SRE Practices**. Atualmente, estou focado na convergência entre Engenharia de Software Clássica e **Engenharia de IA** (Agents, RAG, LLMs).
+
+* 🔭 **Foco atual:** Agentes Autônomos, Sistemas Distribuídos e Otimização de Custos Cloud.
+* 🌱 **Estudando:** Advanced RAG Patterns & Multi-Agent Orchestration.
+* 📍 **Localização:** Ibirama, SC, Brasil.
+
+---
+
+### 🏆 Impacto & Highlights
+
+Resultados reais de engenharia aplicados ao negócio:
+
+| Métrica | Descrição |
+| :--- | :--- |
+| 💸 **>90%** | Redução de custos operacionais via refatoração de arquitetura. |
+| 🛡️ **>97%** | Redução de bugs em fluxos críticos (Pagamentos/Core). |
+| ⚡ **99.99%** | Confiabilidade atingida em processamento assíncrono massivo. |
+| 🚀 **Performance** | Otimização de processos de *horas* para *minutos*. |
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+  **Backend & Core**<br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+  <br/>**Cloud & Infra (GCP)**<br/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <br/>**Database & Event Streaming**<br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+
+  <br/>**AI Engineering & Modern Tools**<br/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-333333?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=felipesilvaibi&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
   
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipesilvaibi&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipesilvaibi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=felipesilvaibi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=felipesilvaibi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📫 Vamos conversar?
-
-Estou sempre aberto a discutir arquitetura de software, desafios de escala e o futuro da IA aplicada ao Backend.
-
-* [LinkedIn](https://www.linkedin.com/in/felipe-silva-developer)
-* [Email](mailto:felipe_ibirama@hotmail.com)
+<div align="center">
+  <p><i>"Software Engineering is about managing complexity."</i></p>
+  <p>© 2026 Felipe Silva</p>
+</div>
