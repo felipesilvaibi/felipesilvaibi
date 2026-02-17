@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Construindo sistemas resilientes, escaláveis e inteligentes.</h3>
+  <h3>Construo sistemas resilientes, escaláveis e inteligentes :D </h3>
 </div>
 
 <div align="center">
@@ -24,24 +24,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Tech Lead Backend** especialista em **Google Cloud Platform (GCP)** e Arquitetura de Microsserviços. Minha paixão é desenhar sistemas que suportam alta carga, focando em **Event-Driven Architecture** e **SRE Practices**. Atualmente, estou focado na convergência entre Engenharia de Software Clássica e **Engenharia de IA** (Agents, RAG, LLMs).
+Sou **Tech Lead Backend** com grande aptidão no ecossistema **Google Cloud Platform (GCP)** e Arquitetura de Microsserviços. Minha vocação é desenhar sistemas que suportam alta carga, focando em **Event-Driven Architecture** e **SRE Practices**. Atualmente, estou focado na convergência entre Engenharia de Software Clássica e **Engenharia de IA** (Agents, RAG, LLMs).
 
-* 🔭 **Foco atual:** Agentes Autônomos, Sistemas Distribuídos e Otimização de Custos Cloud.
-* 🌱 **Estudando:** Advanced RAG Patterns & Multi-Agent Orchestration.
+* 🔭 **Foco atual:** Sistemas Distribuídos, Sistemas inteligentes (com IA) e Desenvolvimento alavancado com IA.
+* 🌱 **Estudando:** Padrões avançados de RAG, Desenvolvimento assistido por IA e Inglês.
 * 📍 **Localização:** Ibirama, SC, Brasil.
-
----
-
-### 🏆 Impacto & Highlights
-
-Resultados reais de engenharia aplicados ao negócio:
-
-| Métrica | Descrição |
-| :--- | :--- |
-| 💸 **>90%** | Redução de custos operacionais via refatoração de arquitetura. |
-| 🛡️ **>97%** | Redução de bugs em fluxos críticos (Pagamentos/Core). |
-| ⚡ **99.99%** | Confiabilidade atingida em processamento assíncrono massivo. |
-| 🚀 **Performance** | Otimização de processos de *horas* para *minutos*. |
 
 ---
 
