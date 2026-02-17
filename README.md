@@ -62,10 +62,13 @@ Alguns marcos da minha trajetória profissional recente:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/felipesilvaibi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesilvaibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvaibi&layout=compact&theme=tokyonight"/>
-  </a>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=felipesilvaibi&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipesilvaibi&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=felipesilvaibi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
