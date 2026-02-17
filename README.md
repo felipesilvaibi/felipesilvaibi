@@ -26,7 +26,7 @@
 
 Sou **Tech Lead Backend** com grande aptidão no ecossistema **Google Cloud Platform (GCP)** e Arquitetura de Microsserviços. Minha vocação é desenhar sistemas que suportam alta carga, focando em **Event-Driven Architecture** e **SRE Practices**. Atualmente, estou focado na convergência entre Engenharia de Software Clássica e **Engenharia de IA** (Agents, RAG, LLMs).
 
-* 🔭 **Foco atual:** Sistemas Distribuídos, Sistemas inteligentes (com IA) e Desenvolvimento alavancado com IA.
+* 🔭 **Foco atual:** Sistemas Distribuídos, Sistemas Inteligentes (com IA) e Desenvolvimento Alavancado com IA.
 * 🌱 **Estudando:** Padrões avançados de RAG, Desenvolvimento assistido por IA e Inglês.
 * 📍 **Localização:** Ibirama, SC, Brasil.
 
