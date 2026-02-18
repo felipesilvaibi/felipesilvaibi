@@ -36,8 +36,6 @@ Sou **Tech Lead Backend** com grande aptidão no ecossistema **Google Cloud Plat
 
 <div align="center">
 
-<div align="center">
-
   <br/>**Backend & Core**<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -71,22 +69,6 @@ Sou **Tech Lead Backend** com grande aptidão no ecossistema **Google Cloud Plat
   <img src="https://img.shields.io/badge/Qdrant-333333?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
-</div>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=felipesilvaibi&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipesilvaibi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=felipesilvaibi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
